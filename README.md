@@ -8,10 +8,9 @@ Team: League of Legends (LoL)
 
 Team Members:
 
-Abdullah Irshad (CT-271)
-Muneeb Ur Rehman (CT-283)
-Huzaifa Uddin Ahmed Jaffri (CT-286)
-Abdul Rafay (CT-277)
+Abdullah Irshad
+Muneeb Ur Rehman
+Huzaifa Uddin Ahmed Jaffri
 
 Objective:
 To build an interactive fighting game that uses multimedia features and showcases programming fundamentals.
@@ -37,7 +36,7 @@ Input Handling: Managed keyboard inputs for gameplay and menu interactions.
 Game Features and Highlights
 Menu System
 Options: Start Game, Settings, and Quit.
-Settings: Adjust music and sound levels.
+Settings: Select the background music of your choice, toggle sfx sounds, key bindings and credits.
 Gameplay Mechanics
 Two-Player Mode:
 Player 1: WASD for movement, E/Q for attacks.
@@ -59,14 +58,11 @@ Huzaifa Uddin Ahmed Jaffri
 Role: Animator and sound
 Created animations and visual transitions for the game.
 
-Abdul Rafay
-Role: Character Artist
-
 Current Limitations and Future Improvements
 Limitations
 No single-player mode with AI opponents.
 Attack animations are basic.
-Gameplay lacks advanced mechanics such as combos or special moves.
+Gameplay lacks advanced mechanics such as combos.
 Future Plans
 Introduce AI-controlled opponents for single-player mode.
 Add detailed animations and attack sequences.
